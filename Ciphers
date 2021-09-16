@@ -1,0 +1,8 @@
+Spencer Cipher
+
+        abcdefghijklmnopqrstuvwxyz
+key =   mlkjihgfedcbazyxwvutsrqpon
+
+Phrase      "I love cryptography!"
+encrypted   "E byri kvoxtygvmxfo!"
+
